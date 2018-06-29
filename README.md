@@ -1,4 +1,4 @@
-# smarttware
+# smartware
 C++ framework for smart devices based on light weight platform.
 
 Smartware is designed to make software for smart devices on a light weigth platform to be more maintainable, extensible and resuable. 
