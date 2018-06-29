@@ -1,5 +1,5 @@
-# iotware
-C++ framework for IoT devices.
+# smarttware
+C++ framework for smart devices based on light weight platform.
 
-Iotware is designed to make software for IoT devices to be more maintainable, extensible and resuable. 
-Complicated applications can be designed in an object oriented way w ith a compact subset of C++ features being leveraged, which is more intuitive and simple comparing to native C and won't introduce big footprint or reduce system performance either.  
+Smartware is designed to make software for smart devices on a light weigth platform to be more maintainable, extensible and resuable. 
+Complicated applications can be designed in an object oriented way with a compact subset of C++ features being leveraged, which is more intuitive and simpler than using native C and won't introduce big footprint or reduce system performance either.  
